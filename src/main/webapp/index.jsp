@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jenkins page</title>
+    <title>WEB PAGE YOU HAVE BUILT</title>
     <style>
         body{
             background-color: aqua;
