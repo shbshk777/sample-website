@@ -6,7 +6,7 @@
     <title>Jenkins Web Page</title>
     <style>
         body {
-            background-color: aqua;
+            background-color: skyblue;
         }
 
         h1 {
