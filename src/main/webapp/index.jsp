@@ -10,7 +10,7 @@
         }
 
         h1 {
-            color: blue;
+            color: black;
             text-align: center;
             text-decoration: underline;
         }
@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <h1>THIS IS SAMPLE WEBSITE</h1>
+    <h1>I AM SHOAIB</h1>
     <p>this is sample page for deploying in tomcat9 server</p>
     <p>yusufa</p>
     <p>shb</p>
