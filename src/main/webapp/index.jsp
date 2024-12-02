@@ -24,9 +24,9 @@
     <h1>WEB PAGE YOU HA VE BUILT</h1>
     <p>this is sample page for deploying in tomcat server</p>
     <p>yusufa</p>
-    <p></p>
+    <p>shb</p>
     <p>zunnu</p>
-    <p></p>
+    <p>rahmath</p>
     <p></p>
     <p></p>
     <p></p>
