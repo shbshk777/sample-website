@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <h1>THIS IS SHOAIB</h1>
+    <h1>THIS IS SAMPLE WEBSITE</h1>
     <p>this is sample page for deploying in tomcat server</p>
     <p>yusufa</p>
     <p>shb</p>
