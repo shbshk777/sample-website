@@ -22,7 +22,7 @@
 </head>
 <body>
     <h1>I AM SHOAIB</h1>
-    <p>this is sample page for deploying in tomcat9 server</p>
+    <p>this is sample page for deploying in tomcat server</p>
     <p>yusufa</p>
     <p>shb</p>
     <p>zunnu</p>
